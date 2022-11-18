@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('Poppins.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+
+body{
+    width: 560px;
+    height: 792px;
+    background-color:white;
+    font-family: Poppins;
+}
+
+.caja-0{
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    width: 560px;
+    height: 792px;
+    background-color: rgba(225, 224, 219, 1);
+}
+.caja-1{
+    position: relative;
+    width: 560px;
+    height: 321px;
+}
+.semi-circulo1{
+    position: absolute;
+    top: 32px;
+    left: 32px;
+    width: 181px; 
+    height: 182px; 
+    background:rgba(182, 157, 199, 1);
+    -moz-border-radius: 0 100% 0 0;
+    -webkit-border-radius: 0 100% 0 0;
+    border-radius: 0 100% 0 0;
+    transform: rotate(90deg);
+}
+.semi-circulo2{
+    width: 181px; 
+    height: 182px;
+    border: 6px solid;
+    background:rgba(182, 157, 199, 0);
+    -moz-border-radius: 0 100% 0 0;
+    -webkit-border-radius: 0 100% 0 0;
+    border-radius: 0 100% 0 0;
+    transform: rotate(90deg);
+}
+.rectangulo-1{
+    position: absolute;
+    right: 0px;
+    top: 149px;
+    width: 345px;
+    height: 49px;
+    background-color:rgba(182, 157, 199, 1) ;
+}
+h1{
+    position: absolute;
+    left: 20px;
+    width: 306px;
+    height: 32px;
+    font-size:large;
+}
+#mail{
+    position: absolute;
+    left: 240px;
+    width: 279px;
+    height: 53px;
+    font-size: small;
+}
+.caja-2{
+    position: absolute;
+    top:322px;
+    width: 274px;
+    height: 137px;
+}
+.rectangulo-2{
+    width: 274px;
+    height: 26px;
+    background-color: rgba(182, 157, 199, 1) ;
+}
+#sobremi{
+    position:absolute;
+    top: -11.5px;
+    width: 114px;
+    height: 28px;
+    font-size: medium;
+}
+#informacion{
+    position: absolute;
+    top:15px;
+    left: 15px;
+    width: 266px;
+    height: 98px;
+    font-size: small;
+}
+.caja-3{
+    position: absolute;
+    top: 500px;
+    width: 274px;
+    height: 112px;
+}
+.rectangulo-3{
+    width: 274px;
+    height: 25px;
+    background-color: rgba(182, 157, 199, 1) ;
+}
+#cualidades{
+    position: absolute;
+    top: -12.5px;
+    width: 104px;
+    height: 26px;
+}
+#r-pequeños{
+    position: absolute;
+    top: 51px;
+    left: 15px;
+    width: 36px;
+    height: 65px;
+}
+#lista-de-cualidades{
+    position: absolute;
+    top: 28px;
+    left: 70px;
+    width: 200px;
+    height: 77px;
+    font-size: small;
+}
+.caja-4{
+    position: absolute;
+    left: 294px;
+    top: 322px;
+    width: 274px;
+    height: 137px;
+}
+.rectangulo-4{
+    width: 274px;
+    height: 25px;
+    background-color: rgba(182, 157, 199, 1) ;
+}
+#formacion-academica{
+    position: absolute;
+    top: -11.5px;
+    width: 233px;
+    height: 27px;
+    font-size: medium;
+}
+#estudios{
+    position: absolute;
+    left: 15px;
+    font-size: medium;
+}
+.caja-5{
+    position: absolute; 
+    top: 640px;
+    width: 560px;
+    height: 160px;
+}
+.rectangulo-5{
+    width: 274px;
+    height: 25px;
+    background-color: rgba(182, 157, 199, 1) ;
+}
+#formacion-complementaria{
+    position: absolute;
+    top: -11.5px;
+    width: 257px;
+    height: 27px;
+    font-size: medium;
+}
+#formaciones{
+    position: absolute;
+    left: 15px;
+    width: 463px;
+    height: 81px;
+    font-size:15px;
+}
+.semi-circulo3{
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    width: 80px; 
+    height: 80px; 
+    background:rgba(182, 157, 199, 1);
+    -moz-border-radius: 0 100% 0 0;
+    -webkit-border-radius: 0 100% 0 0;
+    border-radius: 0 100% 0 0;
+    transform: rotate(270deg);
+}
+.semi-circulo4{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    width: 80px; 
+    height: 80px;
+    border: 4px solid;
+    background:rgba(182, 157, 199, 0);
+    -moz-border-radius: 0 100% 0 0;
+    -webkit-border-radius: 0 100% 0 0;
+    border-radius: 0 100% 0 0;
+    transform: rotate(270deg);
+}
+
+
+
+
